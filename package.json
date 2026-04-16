@@ -1,0 +1,12 @@
+{
+  "name": "zen-class-mongodb",
+  "version": "1.0.0",
+  "main": "insertData.js",
+  "scripts": {
+    "insert": "node insertData.js",
+    "query": "node queries.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
